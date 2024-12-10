@@ -37,8 +37,8 @@ It efficiently classifies and interprets the various stages of maggot developmen
 | **Machine Learning**      | TensorFlow, Mobilenetv2 | - Model creation and optimization for maggot phase identification          |
 | **Mobile Development**    | Android SDK, Retrofit, Room    | - Android SDK: Core tools for building Android apps <br>  - Retrofit: Networking library for API integration <br> - Room: Database library for local data persistence         |
 | **Backend**               | Node.js, Express.js, Python, Flask  | - API development and integration with machine learning services            |
-| **Database**              | Cloud SQL, Database MySQL | - Cloud SQL: Managed relational database for storing user data and model outputs <br> - MySQL: Underlying database engine for Cloud SQL |
-| **Cloud Services**        | Google Cloud Storage, Cloud Run | - Cloud storage for model files and images <br> - Cloud Run: Serverless deployment platform for backend services <br> |
+| **Database**              | Cloud SQL, MySQL | - Cloud SQL: Managed relational database for storing user data and model outputs <br> - MySQL: Underlying database engine for Cloud SQL |
+| **Cloud Services**        | Google Cloud Storage, Cloud Run | - Google Cloud Storage: Cloud storage for model files and images <br> - Cloud Run: Serverless deployment platform for backend services <br> |
 
 ---
 
