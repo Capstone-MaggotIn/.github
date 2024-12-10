@@ -34,11 +34,11 @@ It efficiently classifies and interprets the various stages of maggot developmen
 | **Category**             | **Technology/Tools**              | **Purpose**                                                                 |
 |---------------------------|------------------------------------|-----------------------------------------------------------------------------|
 | **Programming Languages** | Python, Kotlin, JavaScript  | - Python: Machine Learning Model Training <br> - Kotlin: Android App Development <br> - JavaScript: Backend/Cloud Functionality |
-| **Machine Learning**      | TensorFlow, Vertex AI | - Model creation and optimization for maggot phase identification          |
+| **Machine Learning**      | TensorFlow, Mobilenetv2 | - Model creation and optimization for maggot phase identification          |
 | **Mobile Development**    | Android SDK, Retrofit, Room    | - Android SDK: Core tools for building Android apps <br>  - Retrofit: Networking library for API integration <br> - Room: Database library for local data persistence         |
-| **Backend**               | Node.js, Express.js              | - API development and integration with machine learning services            |
-| **Database**              | Firebase Realtime Database, MySQL | - Firebase: Synchronizing mobile app data <br> - MySQL: Storing user and model output data |
-| **Cloud Services**        | Google Cloud Storage | - Cloud storage for model and images <br> |
+| **Backend**               | Node.js, Express.js, Python, Flask  | - API development and integration with machine learning services            |
+| **Database**              | Cloud SQL, Database MySQL | - Cloud SQL: Managed relational database for storing user data and model outputs <br> - MySQL: Underlying database engine for Cloud SQL |
+| **Cloud Services**        | Google Cloud Storage, Cloud Run | - Cloud storage for model files and images <br> - Cloud Run: Serverless deployment platform for backend services <br> |
 
 ---
 
