@@ -47,15 +47,15 @@ It efficiently classifies and interprets the various stages of maggot developmen
 
 - (**ML**) `M443B4KY3611` | **Rafsamjani Anugrah** – Universitas Islam Riau
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-circle)](https://linkedin.com/in/rafsamjani-anugrah) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=flat-circle)](https://github.com/johndoe)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=flat-circle)](https://github.com/rafsaja)
 
 - (**ML**) `M443B4KY2336` | **M. Dzaky Efendi** – Universitas Islam Riau
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-circle)](https://linkedin.com/in/m-dzaky-efendi) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=flat-circle)](https://github.com/johndoe)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=flat-circle)](https://github.com/DzakyJaki)
 
 - (**ML**) `M180B4KX2210` | **Khaula Sayyidatunadia** – Universitas Airlangga
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-circle)](https://linkedin.com/in/khaula-sayyidatunadia) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=flat-circle)](https://github.com/johndoe)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=flat-circle)](https://github.com/)
 
 - (**CC**) `C296B4KY2742` | **Muhammad Arizaldi Eka Prasetya** – UPN Veteran Jawa Timur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-circle)](https://linkedin.com/in/arizaldiprasetya) 
