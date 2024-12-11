@@ -34,7 +34,7 @@ It efficiently classifies and interprets the various stages of maggot developmen
 | **Category**             | **Technology/Tools**              | **Purpose**                                                                 |
 |---------------------------|------------------------------------|-----------------------------------------------------------------------------|
 | **Programming Languages** | Python, Kotlin, JavaScript  | - Python: Machine Learning Model Training <br> - Kotlin: Android App Development <br> - JavaScript: Backend/Cloud Functionality |
-| **Machine Learning**      | TensorFlow, Mobilenetv2 | - Optimized Model Creation for Maggot Phase Identification Using MobileNetV2 Transfer Learning          |
+| **Machine Learning**      | TensorFlow, MobileNetV2 | - Optimized Model Creation for Maggot Phase Identification Using MobileNetV2 Transfer Learning          |
 | **Mobile Development**    | Android SDK, Retrofit, Room    | - Android SDK: Core tools for building Android apps <br>  - Retrofit: Networking library for API integration <br> - Room: Database library for local data persistence         |
 | **Backend**               | Node.js, Express.js, Python, Flask  | - API development and integration with machine learning services            |
 | **Database**              | Cloud SQL, MySQL | - Cloud SQL: Managed relational database for storing user data and model outputs <br> - MySQL: Underlying database engine for Cloud SQL |
