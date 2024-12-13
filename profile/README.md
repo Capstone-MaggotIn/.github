@@ -1,3 +1,4 @@
+![Home](assets/_MaggotIN%20%20(3).png)
 # MaggotIn - Maggot Phase Identification App
 
 **Team ID**: `C242-PS339`
@@ -26,6 +27,13 @@ It efficiently classifies and interprets the various stages of maggot developmen
   Seamless functionality on Android devices.
 - **Cloud Integration:**  
   Real-time data synchronization and cloud storage.
+
+---
+
+## Screenshots
+| **Home**              | **Analyze**      | **Analyze Result**         |
+|--------------------------|-------------------------|--------------------------|
+| ![Home](assets/11_home.png) | ![Analyze](assets/16_camera_page.png) | ![Result](assets/19_result1.png) |
 
 ---
 
