@@ -1,4 +1,4 @@
-![Home](assets/_MaggotIN%20%20(3).png)
+![Home](https://github.com/Capstone-MaggotIn/.github/blob/main/profile/assets/_MaggotIN%20%20(3).png)
 # MaggotIn - Maggot Phase Identification App
 
 **Team ID**: `C242-PS339`
@@ -33,7 +33,7 @@ It efficiently classifies and interprets the various stages of maggot developmen
 ## Screenshots
 | **Home**              | **Analyze**      | **Analyze Result**         |
 |--------------------------|-------------------------|--------------------------|
-| ![Home](assets/11_home.png) | ![Analyze](assets/16_camera_page.png) | ![Result](assets/19_result1.png) |
+| ![Home](https://github.com/Capstone-MaggotIn/.github/blob/main/profile/assets/11_home.png) | ![Analyze](https://github.com/Capstone-MaggotIn/.github/blob/main/profile/assets/16_camera_page.png) | ![Result](https://github.com/Capstone-MaggotIn/.github/blob/main/profile/assets/19_result1.png) |
 
 ---
 
